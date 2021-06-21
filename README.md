@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 
 
 
+### 🔗 Social Media 
+<!-- Actual text -->
+[![LinkedIn][1.2]][1].
+<!-- Icons -->
+[1.2]: https://raw.githubusercontent.com/pettta/pettta/master/LinkedInLogo.png (LinkedIn icon without padding)
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/tommy-pett-946293209
