@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 About Me 
+
+Hi! My name is Tommy Pett. I am a sophomore in the College of Computing and Informatics and Pennoni Honors College at Drexel University, majoring in computer science. Some of my hobbies include stocks, foreign language, chess, and video games. I'm currently working full-time as an IT-Intern over the summer, and I am looking for a co-op starting in the fall. 
 
 <!--
 **pettta/pettta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
