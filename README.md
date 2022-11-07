@@ -1,6 +1,6 @@
 ### 👋 About Me 
 
-Hi! My name is Tommy Pett. I am a junior majoring in computer science in the College of Computing and Informatics and Pennoni Honors College at Drexel University. Some of my hobbies include stocks, foreign language, chess, and video games. I have just finished my first co-op as a software developer at Susquehanna International Group on the APEX team, and now I am looking for a second co-op from August 2022 to March 2023.
+Hi! My name is Tommy Pett. I am a junior majoring in computer science in the College of Computing and Informatics and Pennoni Honors College at Drexel University. Some of my hobbies include stocks, foreign language, chess, machine learning, and video games. I did my first co-op on the APEX team at Susquehanna international Group working on projects related to databases, rest api's, and frontends for storing info surrounding automated training data and cryptocurrencies. I am now returning for my 2nd co-op there where I am co-leading full-stack development on their pre-game sports betting platform as a part of their sport-analytics team. 
 
 <!--
 **pettta/pettta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
