@@ -2,6 +2,8 @@
 
 Hi! My name is Tommy Pett. I am a junior majoring in computer science in the College of Computing and Informatics and Pennoni Honors College at Drexel University. Some of my hobbies include stocks, foreign language, chess, machine learning, and video games. I did my first co-op on the APEX team at Susquehanna international Group working on projects related to databases, rest api's, and frontends for storing info surrounding automated training data and cryptocurrencies. I am now returning for my 2nd co-op there where I am co-leading full-stack development on their pre-game sports betting platform as a part of their sport-analytics team. 
 
+There's not a whole lot of side-projects posted here on my github, but one thing worth checking out is the game my friends and I made from scratch in Java as a part of our freshman design project: we're all really happy with how it turned out for all of us being freshmen.
+
 <!--
 **pettta/pettta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
