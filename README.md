@@ -19,8 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### &#128200; Statistics 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pettta&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pettta&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pettta&theme=dracula)
+
+
+![General Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pettta&theme=dracula)
+
 
 
 
